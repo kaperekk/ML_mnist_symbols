@@ -1,0 +1,4 @@
+Project created to read mnist symbols.
+At first I analyse obtained data. Next i make it readable for model,and split into treaning and testing part.
+On the next step I create the mode, and train it. After I can test Accuracy and check how can i improve it by looking at confusion matrix. 
+And in the end we can test this model by hand mady picture by myself and check how it really works.
